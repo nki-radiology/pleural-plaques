@@ -56,7 +56,7 @@ See: https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/set_environmen
 
 ### 3.3 Running inference
 - Unzip TaskXXX_PP.zip in your ``nnUNet_results`` folder defined in 3.2
-- Run ``nnUNet_predict -d TaskXXX_PP -i INPUT_FOLDER -o OUTPUT_FOLDER -f all -tr nnUNetTrainer -c 3d_fullres -p nnUNetPlans``
+- Run ``nnUNet_predict TaskXXX_PP -i INPUT_FOLDER -o OUTPUT_FOLDER -f all -c 3d_fullres``
 
 The script will run and the AI model will output binary segmentation masks in 'OUTPUT_FOLDER'.
 
