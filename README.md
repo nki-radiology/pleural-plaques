@@ -1,7 +1,7 @@
 # Artificial Intelligence–based Quantification of Pleural Plaque Volume and Association With Lung Function in Asbestos-exposed Patients :computer: :mag_right: 
 Open sourcing segmentation models for pleural plaques in thoracic CT scans following our publication: https://journals.lww.com/thoracicimaging/abstract/9900/artificial_intelligence_based_quantification_of.107.aspx
 
-Managed by Kevin Groot Lipman (k[dot]groot[dot]lipman[at]nki[dot]nl, k[dot]b[dot]w[dot]grootlipman[at]gmail[dot]com)
+Managed by Kevin Groot Lipman (k.groot.lipman[at]nki[dot]nl, k.b.w.grootlipman[at]gmail[dot]com)
 
 ## 1. Setting up the environment :deciduous_tree:
 Install miniconda3: https://docs.conda.io/en/latest/miniconda.html
